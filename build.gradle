@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+mainClassName = "org.jembi.Main"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile "org.xerial:sqlite-jdbc:3.8.11.2"
+}
