@@ -35,6 +35,7 @@ Your job is to take this ugly, untested and buggy code and refactor it into robu
 
 ## Do's and don'ts
 
+* Complete this challenge on your **OWN**. There are multiple solutions to this problem and we want to see yours.
 * **KISS** Keep things simple
 * **_DO NOT_** invent additional requirements or design a solution to solve every hypothetical scenario. Just design a solution to the presented challenge.
 * **_DO NOT_** spend days on this challenge. We are only expecting this to take you a few hours so if find yourself spending days on this challenge, you might want to start wondering whether you are not over engineering your solution.
